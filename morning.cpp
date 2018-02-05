@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-	printf("Goodmorning Monday\n");
-	
+	printf("test commit\n");
+
 	return 0;
 }
